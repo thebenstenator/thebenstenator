@@ -3,9 +3,9 @@ Hi there, I'm Ben
 About Me
 
 I'm an aspiring developer attending TripleTen's full stack engineering course. Currently learning JavaScript and exploring the world of programming!
-I will update this README as I develop my skills further.
+I've completed the coursework in HTML/CSS, I've learned how to use GitHub, VSCode, Figma, and Bash command line.
 
-
+I'm a dad with two littles, in my freetime I enjoy woodworking (when possible), playing video games, and developing my codeing skills.
 
 📚 What I'm Learning
 
